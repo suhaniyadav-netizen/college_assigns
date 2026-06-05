@@ -20,7 +20,7 @@ college_assigns
 
 | Year        | Focus Areas                  |
 | ----------- | ---------------------------- |
-| First Year  | Python, DSA, Web Development |
+| First Year  | Python, Web Development      |
 | Second Year | To be added                  |
 | Third Year  | To be added                  |
 | Fourth Year | To be added                  |
