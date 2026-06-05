@@ -1,4 +1,4 @@
-# college_assigns-
+# college_assigns
 ```
 All 4 year Assignments
 ```
