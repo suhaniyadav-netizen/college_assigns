@@ -1,0 +1,11 @@
+daily calorie limit : 2100
+
+meal name 			 calories 
+vada pav: 			 600.0 cal 
+
+12345678: 			 700.0 cal 
+
+abcdefgh: 			 900.0 cal 
+
+Total calories : 2200.0
+Average calories : 733.3333333333334
